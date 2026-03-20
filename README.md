@@ -1,0 +1,2 @@
+# SecureRank-Cloud-Dynamic-Multi-Keyword-Search-over-Encrypted-Data
+SecureRank Cloud is a privacy-preserving system that enables dynamic multi-keyword ranked search over encrypted cloud data. It ensures secure storage, encrypted indexing, and relevance-based retrieval without exposing sensitive information, demonstrating practical implementation of searchable encryption and secure information retrieval.
